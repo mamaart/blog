@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-09-03T02:34:02+02:00
-draft: true
+draft: false
 ---
 
 Hi.. I am Martin. I have a lot of interest in software, network and computer stuff.
